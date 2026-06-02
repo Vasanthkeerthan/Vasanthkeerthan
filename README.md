@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vasanth Keerthan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Future+MS+in+Artificial+Intelligence" alt="Typing SVG" />
+</p><h1 align="center">Hi 👋, I'm Vasanth Keerthan</h1>
 
 <h3 align="center">
 AI Engineer | Full Stack Developer | Computer Vision Enthusiast
