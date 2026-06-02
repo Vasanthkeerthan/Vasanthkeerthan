@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+AI-Powered+Applications;Problem+Solver+and+Tech+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+AI-Powered+Applications;Problem+Solver+and+Tech+Explorer" />
 </p>
 
 ---
@@ -22,13 +22,13 @@ Building AI-powered applications and solving real-world problems.
 
 ## 🌟 About Me
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
-* 💻 Full Stack Developer
-* 🌱 Currently Building Medical Imaging AI Projects
-* 🔬 Interested in Deep Learning, Generative AI & Intelligent Systems
-* 🚀 Love building AI-powered applications that solve real-world problems
-* 📍 Andhra Pradesh, India
+- 🎓 B.Tech Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
+- 💻 Full Stack Developer
+- 🌱 Currently Building Medical Imaging AI Projects
+- 🔬 Interested in Deep Learning, Generative AI & Intelligent Systems
+- 🚀 Love building AI-powered applications that solve real-world problems
+- 📍 Andhra Pradesh, India
 
 ---
 
@@ -55,7 +55,7 @@ Building AI-powered applications and solving real-world problems.
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,opencv,tensorflow,pytorch,html,css,git,github,vscode,flask" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,opencv,tensorflow,pytorch,html,css,git,github,vscode,flask,tailwind" />
 </p>
 
 ---
@@ -63,19 +63,15 @@ Building AI-powered applications and solving real-world problems.
 ## 🚀 Featured Projects
 
 ### 🎤 AI Interview Platform
-
 AI-powered interview preparation platform with resume analysis, mock interviews, AI-generated questions, and performance tracking.
 
 ### 🖐️ AI Virtual Mouse
-
 Control your computer using hand gestures and computer vision powered by OpenCV and MediaPipe.
 
 ### 🏥 Medical Imaging AI
-
 Deep learning-based disease detection from medical images using modern AI techniques.
 
 ### 🎥 YouTube Gesture Controller
-
 Control YouTube videos using real-time hand gesture recognition.
 
 ---
@@ -83,11 +79,8 @@ Control YouTube videos using real-time hand gesture recognition.
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkeerthan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkeerthan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkeerthan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkeerthan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -95,15 +88,7 @@ Control YouTube videos using real-time hand gesture recognition.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkeerthan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vasanthkeerthan&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkeerthan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -111,7 +96,7 @@ Control YouTube videos using real-time hand gesture recognition.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkeerthan&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkeerthan&theme=tokyo-night"/>
 </p>
 
 ---
@@ -119,7 +104,7 @@ Control YouTube videos using real-time hand gesture recognition.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vasanthkeerthan/Vasanthkeerthan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vasanthkeerthan/Vasanthkeerthan/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -127,7 +112,7 @@ Control YouTube videos using real-time hand gesture recognition.
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vasanthkeerthan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Vasanthkeerthan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -137,5 +122,5 @@ Control YouTube videos using real-time hand gesture recognition.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer"/>
 </p>
