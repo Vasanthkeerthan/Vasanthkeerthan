@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Future+MS+in+Artificial+Intelligence;Building+AI-Powered+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+AI-Powered+Applications;Problem+Solver+and+Tech+Explorer" />
 </p>
 
 ---
@@ -22,12 +22,13 @@ Building AI-powered applications and solving real-world problems.
 
 ## 🌟 About Me
 
-- 🎓 B.Tech CSE Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
-- 💻 Full Stack Developer
-- 🌱 Currently Building Medical Imaging AI Projects
-- 🎯 Goal: Pursue MS in Artificial Intelligence
-- 📍 Andhra Pradesh, India
+* 🎓 B.Tech Computer Science Engineering Student
+* 🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
+* 💻 Full Stack Developer
+* 🌱 Currently Building Medical Imaging AI Projects
+* 🔬 Interested in Deep Learning, Generative AI & Intelligent Systems
+* 🚀 Love building AI-powered applications that solve real-world problems
+* 📍 Andhra Pradesh, India
 
 ---
 
@@ -35,7 +36,7 @@ Building AI-powered applications and solving real-world problems.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/chundur-vasanth-keerthan">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -54,7 +55,7 @@ Building AI-powered applications and solving real-world problems.
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,opencv,tensorflow,pytorch,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,opencv,tensorflow,pytorch,html,css,git,github,vscode,flask" />
 </p>
 
 ---
@@ -62,16 +63,20 @@ Building AI-powered applications and solving real-world problems.
 ## 🚀 Featured Projects
 
 ### 🎤 AI Interview Platform
-AI-powered interview preparation platform with resume analysis and mock interviews.
+
+AI-powered interview preparation platform with resume analysis, mock interviews, AI-generated questions, and performance tracking.
 
 ### 🖐️ AI Virtual Mouse
-Control your computer using hand gestures and computer vision.
+
+Control your computer using hand gestures and computer vision powered by OpenCV and MediaPipe.
 
 ### 🏥 Medical Imaging AI
-Deep learning-based disease detection from medical images.
+
+Deep learning-based disease detection from medical images using modern AI techniques.
 
 ### 🎥 YouTube Gesture Controller
-Control YouTube videos using hand gestures.
+
+Control YouTube videos using real-time hand gesture recognition.
 
 ---
 
@@ -113,7 +118,9 @@ Control YouTube videos using hand gestures.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Vasanthkeerthan/Vasanthkeerthan/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vasanthkeerthan/Vasanthkeerthan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
